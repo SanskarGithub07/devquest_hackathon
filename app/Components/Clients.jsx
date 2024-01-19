@@ -2,7 +2,7 @@ import Image from "next/image"
 
 const Clients = () => {
   return (
-    <div className='text-center p-4 bg-white flex flex-col gap-5'>
+    <div className='text-center p-4 bg-white flex flex-col gap-5 bg-gray-100'>
     <div>
      <h1 className='text-3xl font-inter font-semibold'>Best from the websites</h1>
      <p className='font-inter font-normal'>Get the best possible price for the products</p>

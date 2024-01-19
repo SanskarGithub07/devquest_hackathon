@@ -14,7 +14,7 @@ export default function Card() {
             alt="Shoes"
             className="w-full h-auto rounded-lg"
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-transparent to-white opacity-40"></div>
+          <div className="absolute inset-0 bg-gradient-to-b from-transparent to-white opacity-60"></div>
         </figure>
       <div className="card-actions justify-between">
       <div className="flex flex-col gap-0">
